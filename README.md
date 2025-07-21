@@ -1,7 +1,9 @@
-# Project Latihan HTML
+# Single Page HTML CV
 
-Ini adalah solusi saya untuk tantangan membuat CV.
+Proyek ini adalah CV online sederhana yang dibuat menggunakan HTML sebagai latihan.
 
-## 🔗 Link
+---
 
-- **Live Demo:** [https://ramadhanzakki.github.io/SIngle-Page-HTML-CV/](https://ramadhanzakki.github.io/SIngle-Page-HTML-CV/) 
+## 🚀 Live Demo URL
+
+**Anda bisa melihat hasil live proyek ini di sini:** [https://ramadhanzakki.github.io/Single-Page-HTML-CV/](https://ramadhanzakki.github.io/Single-Page-HTML-CV/)
