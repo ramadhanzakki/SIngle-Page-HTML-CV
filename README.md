@@ -6,4 +6,4 @@ Proyek ini adalah CV online sederhana yang dibuat menggunakan HTML sebagai latih
 
 ## 🚀 Live Demo URL
 
-**Anda bisa melihat hasil live proyek ini di sini:** [https://ramadhanzakki.github.io/Single-Page-HTML-CV/](https://ramadhanzakki.github.io/Single-Page-HTML-CV/)
+**Anda bisa melihat hasil live proyek ini di sini:** [https://ramadhanzakki.github.io/SIngle-Page-HTML-CV/](https://ramadhanzakki.github.io/SIngle-Page-HTML-CV/)
